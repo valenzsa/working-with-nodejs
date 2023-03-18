@@ -1,7 +1,7 @@
 # Learning with NodeJS
 
 1. [x] How NodeJS differs to VanillaJS
-2. [ ] Read and Write Files
+2. [x] Read and Write Files
 3. [ ] NPM Modules
 4. [ ] Event Emitter
 5. [ ] Build a Web Server
