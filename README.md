@@ -1,6 +1,6 @@
 # Learning with NodeJS
 
-1. [ ] How NodeJS differs to VanillaJS
+1. [x] How NodeJS differs to VanillaJS
 2. [ ] Read and Write Files
 3. [ ] NPM Modules
 4. [ ] Event Emitter
