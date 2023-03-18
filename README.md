@@ -2,7 +2,7 @@
 
 1. [x] How NodeJS differs to VanillaJS
 2. [x] Read and Write Files
-3. [ ] NPM Modules
+3. [x] NPM Modules
 4. [ ] Event Emitter
 5. [ ] Build a Web Server
 6. [ ] Learn ExpressJS framework
