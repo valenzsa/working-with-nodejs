@@ -4,7 +4,7 @@
 2. [x] Read and Write Files
 3. [x] NPM Modules
 4. [x] Event Emitter
-5. [ ] Build a Web Server
+5. [x] Build a Web Server using NodeJS
 6. [ ] Learn ExpressJS framework
 7. [ ] Middleware
 8. [ ] Routing
