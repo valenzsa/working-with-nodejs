@@ -5,7 +5,7 @@
 3. [x] NPM Modules
 4. [x] Event Emitter
 5. [x] Build a Web Server using NodeJS
-6. [ ] Learn ExpressJS framework
+6. [x] Build a Web Server using ExpressJS
 7. [ ] Middleware
 8. [ ] Routing
 9. [ ] MVC REST API
