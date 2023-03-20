@@ -1,4 +1,4 @@
-# Working with NodeJS
+# Working with NodeJS, Express and MongoDB
 
 1. [x] How NodeJS differs to VanillaJS
 2. [x] Read and Write Files
@@ -7,7 +7,7 @@
 5. [x] Build a Web Server using NodeJS
 6. [x] Build a Web Server using ExpressJS
 7. [x] Middleware
-8. [ ] Routing
+8. [x] Routing
 9. [ ] MVC REST API
 10. [ ] Authentication
 11. [ ] JWT Auth
