@@ -8,7 +8,7 @@
 6. [x] Build a Web Server using ExpressJS
 7. [x] Middleware
 8. [x] Routing
-9. [ ] MVC REST API
+9. [x] MVC REST API
 10. [ ] Authentication
 11. [ ] JWT Auth
 12. [ ] User Roles | Authorization
